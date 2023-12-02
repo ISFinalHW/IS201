@@ -1,0 +1,28 @@
+#div1 {
+    position: relative; /* Positioning of the div */
+    background-color: yellow; /* Background color of the div */
+    width: 200px; /* Width of the div */
+    height: 300px; /* Height of the div */
+    margin: 10px; /* Margin around the div */
+}
+
+#div2 {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    background-color: pink;
+    width: 170px;
+    height: 150px;
+}
+
+#div3 {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    background-color: lightblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 250px;
+    height: 200px;
+    transform: translate(-50%, -50%);
+}
+    

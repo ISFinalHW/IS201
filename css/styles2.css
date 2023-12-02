@@ -1,0 +1,29 @@
+/* styles2.css */
+
+body {
+    background-color: rgb(217, 234, 217); /* Sets the background color of the whole page */
+    font-family: Arial, sans-serif; /* Sets the default font for the page */
+}
+
+.text-color {
+    color: blue; /* Sets the font color */
+}
+
+h1 {
+    font-family: 'Georgia', serif;
+    color: darkslategray;
+    text-shadow: 1px 1px 1px lightgray;
+}
+h2, h3, h4, h5, h6{ font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+}
+
+p {
+    font-family: 'Arial', sans-serif;
+    line-height: 15;
+    color: midnightblue;
+}
+.li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: cornflowerblue 15px; 
+}
